@@ -4,8 +4,29 @@ layout: default
 
 # About The Free Media Alliance
 
-Etsy leggings chia raclette retro cornhole. Occupy tattooed sartorial, seitan neutra lyft squid kickstarter knausgaard. Tote bag locavore poke, single-origin coffee yr wolf truffaut. Four loko iceland food truck, activated charcoal craft beer lyft gastropub viral poutine hot chicken raclette gochujang fanny pack church-key. Tote bag poutine green juice godard polaroid. Normcore 90's cliche, hell of fixie pork belly YOLO unicorn direct trade stumptown hot chicken narwhal vexillologist literally. Farm-to-table pok pok letterpress before they sold out, tofu shabby chic next level pickled vinyl fixie selvage vape prism chia raclette.
+The Free Media Alliance aims to advance the notion that a well informed citizen is the most important component in a healthy democratic society. The relationship between media producer and media consumer has not only been flipped on its head in the past decade, it has become something completely new and different. Consumers are producers, producers are consumers, everyone is a critic, and no one is an expert. The very notion that there is an objective, shared reality described by factual evidence has been called into question. It is within this context that the Free Media Alliance seeks to operate as a community resource.
 
-Brunch synth taxidermy kale chips, authentic YOLO helvetica shabby chic kogi marfa quinoa chillwave. Typewriter pabst chia, raw denim small batch taxidermy mlkshk biodiesel la croix viral narwhal poke paleo glossier letterpress. Enamel pin listicle mustache, pop-up gentrify af raw denim quinoa cronut vexillologist. You probably haven't heard of them biodiesel single-origin coffee, cardigan PBR&B yuccie master cleanse kickstarter hell of fixie butcher narwhal. Raclette actually authentic green juice seitan. Master cleanse fap polaroid cliche. Chia sartorial selvage, knausgaard seitan fanny pack fap master cleanse VHS sriracha hell of franzen.
+We seek to serve as a Media Literacy resource center, sharing information and promoting events covering a wide range of issues surrounding the consumption of mass media and social media. This would cover issues like privacy rights, implicit racial and gender bias in mediated representations, net neutrality, editorial practices and philosophies, media industry economic, and more.
 
-Photo booth irony live-edge umami, blue bottle sartorial put a bird on it migas 8-bit shoreditch. Live-edge intelligentsia freegan, hella tofu cold-pressed next level wolf. Kickstarter enamel pin flexitarian, four loko letterpress marfa raw denim sriracha occupy normcore copper mug. Banjo distillery selfies bitters, pour-over shoreditch cronut microdosing heirloom before they sold out copper mug retro gentrify cold-pressed gastropub. Plaid humblebrag prism beard. Edison bulb kinfolk unicorn, shabby chic lyft salvia whatever bitters food truck. XOXO leggings you probably haven't heard of them, chambray mumblecore iPhone vape roof party forage literally blog hot chicken polaroid.
+In addition to cultivating educational opportunities, the Free Media Alliance strives to bring producers of independent media together to collaborate and teach, hosting workshops, themed hack-a-thons, and forums to present and promote socially conscious work and a culture of active production.
+
+We are not alone in seeking to advance the public good through media. As such, we will conduct ourselves in alignment with the [**Electronic Frontier Alliance Principles:** ](https://www.eff.org/electronic-frontier-alliance)
+
+> As a member organization of the EFA, we believe that technology should support the intellectual freedom at the heart of a democratic society. In the digital age, that entails advancing:
+
+> **Free Expression:**
+People should be able to speak their minds to whoever will listen.
+
+> **Security:**
+Technology should be trustworthy and answer to its users.
+
+> **Privacy:**
+Technology should allow private and anonymous speech, and allow users to set their own parameters about what to share with whom.
+
+> **Creativity:**
+Technology should promote progress by allowing people to build on the ideas, creations, and inventions of others.
+
+> **Access to Knowledge:**
+Curiosity should be rewarded, not stifled.
+
+> We uphold these principles by fighting for **transparency and freedom in culture, code, and law.**
