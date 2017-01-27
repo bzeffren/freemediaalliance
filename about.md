@@ -7,7 +7,7 @@ We seek to serve as a media literacy resource center, sharing information and pr
 
 In addition to cultivating educational opportunities, the Free Media Alliance strives to bring independent producers together to collaborate and teach within the broader community, hosting workshops, themed hack-a-thons, and forums to present and promote socially conscious work and a culture of active production.
 
-We want to create a space for people from a diverse set of backgrounds and skills to get together and create something great! If you write, edit, promote, produce, design, develop, direct, manage, fundraise, market, sell, or conceptually manifest words, videos, apps, websites, posters, screenplays, scripts, photos, sounds, tweets, posts, and whatnot [get in touch with us!]({{site.url}}/contact).
+We want to create a space for people from a diverse set of backgrounds and skills to get together and create something great! If you write, edit, promote, produce, design, develop, direct, manage, fundraise, market, sell, or conceptually manifest words, videos, apps, websites, posters, screenplays, scripts, photos, sounds, tweets, posts, and whatnot [get in touch with us!]({{site.url}}contact).
 
 ## Guiding vision
 
