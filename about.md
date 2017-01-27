@@ -3,12 +3,15 @@ layout: default
 ---
 
 # About The Free Media Alliance
+We seek to serve as a media literacy resource center, sharing information and promoting events covering a wide range of issues surrounding the consumption of physical and electronic media. This would cover issues like privacy rights, implicit racial and gender bias in mediated representations, net-neutrality, editorial practices and philosophies, media economics, and more.
+
+In addition to cultivating educational opportunities, the Free Media Alliance strives to bring independent producers together to collaborate and teach within the broader community, hosting workshops, themed hack-a-thons, and forums to present and promote socially conscious work and a culture of active production.
+
+We want to create a space for people from a diverse set of backgrounds and skills to get together and create something great! If you write, edit, promote, produce, design, develop, direct, manage, fundraise, market, sell, or conceptually manifest words, videos, apps, websites, posters, screenplays, scripts, photos, sounds, tweets, posts, and whatnot [get in touch with us!]({{site.url}}/contact).
+
+## Guiding vision
 
 The Free Media Alliance aims to advance the notion that a well informed citizen is the most important component in a healthy democratic society. The relationship between media producer and media consumer has not only been flipped on its head in the past decade, it has become something completely new and different. Consumers are producers, producers are consumers, everyone is a critic, and no one is an expert. The very notion that there is an objective, shared reality described by factual evidence has been called into question. It is within this context that the Free Media Alliance seeks to operate as a community resource.
-
-We seek to serve as a Media Literacy resource center, sharing information and promoting events covering a wide range of issues surrounding the consumption of mass media and social media. This would cover issues like privacy rights, implicit racial and gender bias in mediated representations, net neutrality, editorial practices and philosophies, media industry economic, and more.
-
-In addition to cultivating educational opportunities, the Free Media Alliance strives to bring producers of independent media together to collaborate and teach, hosting workshops, themed hack-a-thons, and forums to present and promote socially conscious work and a culture of active production.
 
 We are not alone in seeking to advance the public good through media. As such, we will conduct ourselves in alignment with the [**Electronic Frontier Alliance Principles:** ](https://www.eff.org/electronic-frontier-alliance)
 
