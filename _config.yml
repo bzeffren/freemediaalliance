@@ -28,12 +28,12 @@ your_name: Free Media Alliance
 email: info@freemediaalliance.org
 
 navigation:
-  - text: News
-    url: /examples
   - text: About
     url: /about
   - text: Contact
     url: /contact
+  - text: Resources
+    url: /resources
 
 # projects:
 #   - name: git-secret
